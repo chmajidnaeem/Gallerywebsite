@@ -20,4 +20,3 @@ git clone https://github.com/your-username/gallery-website.git
 Open the Project:
 Open index.html in your browser to view the website locally.
 
-s
