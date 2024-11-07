@@ -26,4 +26,4 @@ Open the Project:
 Open index.html in your browser to view the website locally.
 
 # Screenshots
-[Snip1](pic1.png)
+[Snip 1](pic1.png)
