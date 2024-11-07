@@ -13,12 +13,7 @@ Technologies Used
 HTML: For structuring the content.
 CSS: For styling and layout.
 Folder Structure
-plaintext
-Copy code
-project-directory/
-├── index.html           # Main HTML file
-├── styles.css           # CSS file for styling
-└── images/              # Folder containing gallery images
+
 How to Use
 Clone the Repository:
 git clone https://github.com/your-username/gallery-website.git
