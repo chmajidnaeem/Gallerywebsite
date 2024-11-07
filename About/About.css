@@ -1,0 +1,70 @@
+.navbar{
+    background-color: black;
+    color: white;
+   padding-left: 15px;
+   padding-right: 15px;
+  
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.myurl{
+    display: flex;
+}
+
+.myhome{
+    display: flex;
+    margin: 15px;
+}
+.mylogo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.aboutheading{
+    font-family:  "Roboto", sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+.aboutpara{
+    text-align: justify;
+   margin: 5px;
+    font-family: "Poppins", sans-serif;
+   padding: 20px;
+}
+.footer{
+    background-color: black;
+   
+    width: 100%;
+    display: flex;
+}
+
+.footerurl{
+    margin: 40px;
+    padding:20px;
+}
+.signature{
+    font-family: "Alex Brush", cursive;
+    text-align: center;
+}
+
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+ 
+}
+.center:hover{
+    box-shadow: 2px 2px 2px 2px  black ;
+   
+}

@@ -1,0 +1,223 @@
+.navbar{
+    background-color: black;
+    color: white;
+   padding-left: 15px;
+   padding-right: 15px;
+  
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.myurl{
+    display: flex;
+}
+
+.myhome{
+    display: flex;
+    margin: 15px;
+}
+
+@media only screen and (max-width: 768px){
+    .headingone{
+        font-size: 30px;
+        color: blue;
+    }
+}
+.headingone{
+    font-family:  "Roboto", sans-serif;
+    font-size: 50px;
+    
+}
+.para{
+    font-family: "Poppins", sans-serif;
+    padding: 10px
+   
+  
+}
+.button{
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    padding: 10px;
+    border-style: none;
+    text-decoration: none;
+}
+.sec{
+    text-align: center;
+    margin: 80px;
+    padding: 10px;
+
+}
+
+.button:hover{
+    color: blue;
+}
+
+.mylogo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-decoration: none;
+}
+.logo{
+    margin: 10px;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.famous{
+    text-align: center;
+  
+    font-size: 30px;
+   
+    
+    
+}
+
+.famousone{
+    color: white;
+     padding: 10px;
+    font-size: 40px;
+    text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.img{
+    margin: 120px;
+   
+}
+
+.img:hover{
+   cursor: pointer;
+ 
+ 
+}
+.img1{
+  border-style: groove;
+}
+.img2{
+    border-style: groove;
+  }
+  .img3{
+    border-style: groove;
+  }
+  
+  .img4{
+    border-style: groove;
+  }
+  .img5{
+    border-style: groove;
+  }
+  .img6{
+    border-style: groove;
+  }
+  
+  
+  
+  
+
+.img1:hover{
+    opacity: 0.6;
+}
+.img2:hover{
+    opacity: 0.6;
+}
+.img3:hover{
+    opacity: 0.6;
+}
+.img4:hover{
+    opacity: 0.6;
+}
+.img5:hover{
+    opacity: 0.6;
+}
+.img6:hover{
+    opacity: 0.6;
+    
+}
+
+.another{
+    background-color: black ;
+    color: white;
+   
+}
+
+.home{
+    text-decoration: none;
+    color: white;
+}
+.about{
+    text-decoration: none;
+    color: white;
+}
+
+.photo{
+    text-decoration: none;
+    color: white; 
+}
+.contact{
+    text-decoration: none;
+    color: white;
+}
+
+.footer{
+    background-color: black;
+    width: 100%;
+    display: flex;
+}
+
+.footerurl{
+    margin: 40px;
+    padding:20px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: rgb(54, 220, 87);
+    }
+  }
+
+  @media only screen and (max-width: 650px){
+    body{
+        background-color: aqua;
+    }
+  }
+
+  .Photosheading{
+
+    font-family:  "Roboto", sans-serif;
+    text-align: center;
+    font-size: 40px;
+  }
+
+ 
+  .contactus{
+    color: black;
+    padding: 20px;
+  }
+
+
+input ,textarea{
+    width: 100%;
+    padding: 5px;
+    margin: 6px;
+    border: 3px solid ;
+  border-radius: 4px;
+}
+.btn{
+    width: 90px;
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+
+.btn:hover{
+    background-color: rgb(1, 2, 2);
+}
+
