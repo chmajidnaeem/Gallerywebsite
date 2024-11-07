@@ -2,7 +2,8 @@
 This is a simple gallery website built with HTML and CSS. It features a welcoming homepage, navigation links, and a gallery section showcasing images in a clean, responsive layout.
 
 # Live Demo
-Check out the live version here.
+Check out the live version here 
+https://gallerywebsite.vercel.app/
 
 # Features
 Responsive Design: The website layout adapts to different screen sizes.
