@@ -16,8 +16,7 @@ CSS: For styling and layout.
 Folder Structure
 
 How to Use
-Clone the Repository:
-git clone https://github.com/your-username/gallery-website.git
+Clone the Repository
 Open the Project:
 Open index.html in your browser to view the website locally.
 
